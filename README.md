@@ -3,9 +3,9 @@ lightsocks
 
 We walk in the dark, to serve the light.
 
-shadowsocks is a lightweight tunnel proxy which can help you get through firewalls
+[shadowsocks](https://github.com/clowwindy/shadowsocks) is a lightweight tunnel proxy which can help you get through firewalls
 
-This is a special client serving as a transparent proxy. Once set up, you can
+lightsocks is a shadowsocks client serving as a transparent proxy. Once set up, you can
 visit `localhost:local_port` as if you are visiting `target_server:target_port`.
 
 usage
