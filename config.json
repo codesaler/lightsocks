@@ -1,0 +1,9 @@
+{
+    "server":"my_shadowsocks_server",
+    "server_port":8388,
+    "local_port":1082,
+    "password":"barfoo!",
+    "timeout":600,
+    "target_server":"github.com",
+    "target_port":22
+}
